@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
 <p>
     <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
     <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black'/>
+    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
+    <img src='https://img.shields.io/badge/react%20js-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
     <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
     <img src='https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white'/>
