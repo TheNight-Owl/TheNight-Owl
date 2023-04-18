@@ -33,6 +33,10 @@ You can click the Preview link to take a look at your changes.
     <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
     <img src='https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white'/>
     <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
+    <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black'/>
+    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
+    <img src='https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm&logoColor=#CB3837'/>
+    <img src='https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white'/>
 </p>
 
 
