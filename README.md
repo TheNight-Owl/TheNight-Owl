@@ -24,24 +24,84 @@ You can click the Preview link to take a look at your changes.
 
 ## Tech Stack:
 
-<p>
-    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-    <img src='https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black'/>
-    <img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black"/>
-    <img src='https://img.shields.io/badge/react%20js-61DBFB?style=for-the-badge&logo=react&logoColor=black'/>
-    <img src='https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white'/>
-    <img src='https://img.shields.io/badge/tailwindcss-22d3ee?style=for-the-badge&logo=tailwindcss&logoColor=black'/>
-    <img src='https://img.shields.io/badge/php-787cb5?style=for-the-badge&logo=php&logoColor=white'/>
-    <img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white'/>
-    <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black'/>
-    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=black'/>
-    <img src='https://img.shields.io/badge/NPM-ffffff.svg?style=for-the-badge&logo=npm&logoColor=#CB3837'/>
-    <img src='https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=Node.js&logoColor=white'/>
-</p>
+<table width="100">
+        <tr align="center">
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html"/>
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css"/>
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt="tailwindcss"/>
+            </td>
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" height="60"/>
+            </td>
+            <td width="190" align='center'>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" height="60"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align='center'>
+                <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg' alt="react" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="60"/>
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg' alt="node" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="60" />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg' alt="mongo" />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/php/php-ar21.svg' alt="php" />
+            </td>
+            <td width="190" align="center">
+                <img src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg' alt="mysql" />
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black' alt="vercel" />
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="60" />
+            </td>
+        </tr>
+        <tr>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
+            </td>
+            <td width="190" align="center">
+                <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" height="60" />
+            </td>
+            <td width="190" align="center">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+                    height="60" alt="c++" />
+            </td>
+    </table>
 
 
 ### GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheNight-Owl&bg_color=1a1523&color=40df20&line=7130c0&point=d5ec27&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheNight-Owl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=TheNight-Owl&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNight-Owl&theme=radical&hide_border=false"/>
