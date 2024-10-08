@@ -1,110 +1,26 @@
 <h2 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px"> I’m @TheNight-Owl </h2>
 <h3 align="center">Life Motto - Eat, Sleep, Code, Repeat...</h3>
 
-## 🦸‍♂️About Me
-- 👀 I’m interested in Full Stack Web Development ...
-- 🌱 I’m currently learning technologies that would be in my arsenal for lifetime...
-- 🤩 Obsessed with dark theme...
-- 🚀 Keep Coding...
-- 💯 Giving 100% of what I have in my tech arsenal...
-
-<!---
-TheNight-Owl/TheNight-Owl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheNight-Owl&label=Profile%20views&color=0e75b6&style=flat" alt="TheNight-Owl" /> </p>
-
-## Connect with me:     
-
-<div>
-    <a href="https://www.linkedin.com/in/arkadyuti-das-b23835223/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:dasarkadyuti001@gmail.com" target="blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-d44638?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
-## Tech Stack:
-
-<table width="100">
-        <tr align="center">
-            <td width="190" align='center'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html"/>
-            </td>
-            <td width="190" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css"/>
-            </td>
-            <td width="190" align="center">
-                <img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt="tailwindcss"/>
-            </td>
-            <td width="190" align='center'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" height="60"/>
-            </td>
-            <td width="190" align='center'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="ts" height="60"/>
-            </td>
-        </tr>
-        <tr>
-            <td width="190" align='center'>
-                <img src='https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg' alt="react" />
-            </td>
-            <td width="190" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="60"/>
-            </td>
-        </tr>
-        <tr>
-            <td width="190" align="center">
-                <img src='https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg' alt="node" />
-            </td>
-            <td width="190" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" height="60" />
-            </td>
-            <td width="190" align="center">
-                <img src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg' alt="mongo" />
-            </td>
-            <td width="190" align="center">
-                <img src='https://www.vectorlogo.zone/logos/php/php-ar21.svg' alt="php" />
-            </td>
-            <td width="190" align="center">
-                <img src='https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg' alt="mysql" />
-            </td>
-        </tr>
-        <tr>
-            <td width="190" align="center">
-                <img src='https://img.shields.io/badge/vercel-fffcde?style=for-the-badge&logo=vercel&logoColor=black' alt="vercel" />
-            </td>
-        </tr>
-        <tr>
-            <td width="190" align="center">
-                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-            </td>
-            <td width="190" align="center">
-                <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" />
-            </td>
-            <td width="190" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="vscode" height="60" />
-            </td>
-        </tr>
-        <tr>
-            <td width="190" align="center">
-                <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python">
-            </td>
-            <td width="190" align="center">
-                <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java">
-            </td>
-            <td width="190" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" height="60" />
-            </td>
-            <td width="190" align="center">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-                    height="60" alt="c++" />
-            </td>
-    </table>
+# 💫 About Me:
+👀 I’m interested in MERN Stack Web Development<br>🌱 Loves to constantly upgrade myself<br>🤩 Obsessed with dark theme<br>🚀 Keep Coding<br>💯 Giving 100% of what I have in my tech arsenal
 
 
-### GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheNight-Owl&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheNight-Owl&theme=radical&hide_border=false&include_all_commits=false&count_private=false"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheNight-Owl&theme=radical&hide_border=false"/>
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arkadyuti-das-b23835223) 
 
-<br/> <br/>
-![Visitor Count](https://profile-counter.glitch.me/TheNight-Owl/count.svg)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheNight-Owl&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheNight-Owl&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheNight-Owl&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TheNight-Owl&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TheNight-Owl&icon=1&color=9)](https://visitcount.itsvg.in)
+
