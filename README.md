@@ -2,7 +2,7 @@
 <h3 align="center">Life Motto - Eat, Sleep, Code, Repeat...</h3>
 
 # 💫 About Me:
-👀 I’m interested in MERN Stack Web Development<br>🌱 Loves to constantly upgrade myself<br>🤩 Obsessed with dark theme<br>🚀 Keep Coding<br>
+👀 MERN Stack | Next JS<br>🌱 Loves to constantly upgrade myself<br>🤩 Obsessed with dark theme<br>🚀 Keep Coding<br>
 
 
 ## 🌐 Socials:
